@@ -87,5 +87,23 @@
         "url": "https://cdn.theatlantic.com/assets/media/img/mt/2015/12/MV5BOTcwMTg0NDcxMl5BMl5BanBnXkFtZTcwMjEyMTIyMw._V1_SX1224_SY560_-2/lead_720_405.jpg"
       }
     ]
+  },
+
+  "kylo": {
+    "name": "Kylo Ren",
+    "photos": [
+      {
+        "caption": "Kylo disguised as R2 rolling.",
+        "url": "https://www.sideshowtoy.com/wp-content/uploads/2018/07/star-wars-r2-d2-legendary-scale-figure-sideshow-feature-400155.jpg"
+      },
+      {
+        "caption": "Kylo disguised as R2 flying.",
+        "url": "https://vignette.wikia.nocookie.net/starwars/images/f/fe/Skyrocketsinflight.jpg"
+      },
+      {
+        "caption": "Kylo disguised as R2 and his best pal.",
+        "url": "https://cdn.theatlantic.com/assets/media/img/mt/2015/12/MV5BOTcwMTg0NDcxMl5BMl5BanBnXkFtZTcwMjEyMTIyMw._V1_SX1224_SY560_-2/lead_720_405.jpg"
+      }
+    ]
   }
 }
